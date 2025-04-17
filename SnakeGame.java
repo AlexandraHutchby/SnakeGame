@@ -15,4 +15,5 @@ public class SnakeGame {
         frame.setSize(1000, 1000); //create size of the panel
         frame.setVisible(true);
     }
+}
     
